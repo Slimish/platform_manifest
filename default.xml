@@ -4,6 +4,9 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
 
+  <remote  name="bb"
+           fetch="https://bitbucket.org/" />
+
   <remote  name="github"
            fetch="git://github.com/"
            review="https://gerrit.slimroms.net/"/>
@@ -464,5 +467,9 @@
 
   <!-- CyanogenMod qrngd -->
   <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" remote="github" revision="cm-11.0" />
+
+  <!-- TOOLCHAINS (THANKS CL3KENER) -->
+  <project path="prebuilts/gcc/linux-x86/arm/sm-arm-eabi-4.8" name="Cl3Kener/sm-arm-eabi-4.8" remote="bb" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/sm-arm-androideabi-4.9" name="Cl3Kener/sm-arm-androideabi-4.9" remote="bb" revision="master" />
 
 </manifest>
