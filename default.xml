@@ -119,6 +119,7 @@
   <project path="external/genext2fs" name="platform/external/genext2fs" />
   <project path="external/giflib" name="platform/external/giflib" />
   <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" />
+  <project path="external/google" name="CyanogenMod/android_external_google" remote="github" revision="cm-11.0" />
   <project path="external/grub" name="platform/external/grub" />
   <project path="external/gtest" name="platform/external/gtest" groups="pdk" />
   <project path="external/guava" name="platform/external/guava" />
@@ -322,6 +323,9 @@
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
+  <project path="packages/apps/LegoPapers" name="legorom/android_lego_wallpapers" remote="github" revision="lego" />
+  <project path="packages/apps/LegoOTA" name="legorom/android_packages_apps_LegoOTA" remote="github" revision="lego" />
+  <project path="packages/apps/LegoStats" name="legorom/android_packages_apps_LegoStats" remote="github" revision="lego" />
   <project path="packages/apps/Mms" name="thelegorom/packages_apps_Mms" remote="github" revision="lego" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="SlimRoms/packages_apps_MusicFX" remote="github" revision="kk4.4" />
