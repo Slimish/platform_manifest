@@ -12,6 +12,9 @@
            
   <remote  name="ls"
            fetch="git://github.com/LiquidSmooth/" />
+           
+  <remote  name="tm"
+           fetch="git://github.com/TheMuppets/" />
 
   <remote  name="github"
            fetch="git://github.com/"
