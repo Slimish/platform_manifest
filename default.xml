@@ -7,11 +7,17 @@
   <remote  name="bb"
            fetch="https://bitbucket.org/" />
            
+  <remote  name="gh"
+           fetch="https://github.com/" />
+           
   <remote  name="cm"
            fetch="git://github.com/CyanogenMod/" />
            
   <remote  name="ls"
            fetch="git://github.com/LiquidSmooth/" />
+  
+  <remote  name="sr"
+           fetch="git://github.com/SlimRoms/" />
            
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
