@@ -217,7 +217,7 @@
   <project path="external/robolectric" name="platform/external/robolectric" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" />
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" />
-  <project path="external/sepolicy" name="SlimRoms/android_external_sepolicy" remote="github" revision="kk4.4" />
+  <project path="external/sepolicy" name="thelegorom/android_external_sepolicy" remote="github" revision="lego" />
   <project path="external/sfntly" name="platform/external/sfntly" />
   <project path="external/sil-fonts" name="platform/external/sil-fonts" />
   <project path="external/skia" name="SlimRoms/android_external_skia" remote="github" revision="kk4.4" />
@@ -287,7 +287,7 @@
   <project path="hardware/libhardware" name="SlimRoms/hardware_libhardware" remote="github" revision="kk4.4-caf" />
   <project path="hardware/libhardware_legacy" name="SlimRoms/hardware_libhardware_legacy" remote="github" revision="kk4.4-caf" />
   <project path="hardware/qcom/audio" name="SlimRoms/hardware_qcom_audio" remote="github" revision="kk4.4" />
-  <project path="hardware/qcom/audio-caf" name="SlimRoms/hardware_qcom_audio-caf" remote="github" revision="kk4.4" />
+  <project path="hardware/qcom/audio-caf" name="thelegorom/hardware_qcom_audio-caf" remote="github" revision="lego" />
   <project path="hardware/qcom/bt" name="SlimRoms/hardware_qcom_bt" remote="github" revision="kk4.4" />
   <project path="hardware/qcom/camera" name="SlimRoms/hardware_qcom_camera" remote="github" revision="kk4.4" />
   <project path="hardware/qcom/display" name="SlimRoms/hardware_qcom_display" remote="github" revision="kk4.4" />
@@ -301,7 +301,7 @@
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" />
   <project path="hardware/qcom/power" name="SlimRoms/hardware_qcom_power" remote="github" revision="kk4.4" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
-  <project path="hardware/qcom/wlan" name="SlimRoms/hardware_qcom_wlan" remote="github" revision="kk4.4-caf" />
+  <project path="hardware/qcom/wlan" name="thelegorom/hardware_qcom_wlan" remote="github" revision="lego-caf" />
   <project path="hardware/ril" name="SlimRoms/hardware_ril" remote="github" revision="kk4.4" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" groups="exynos5" />
   <project path="hardware/ti/omap3" name="SlimRoms/hardware_ti_omap3" remote="github" revision="kk4.4" />
