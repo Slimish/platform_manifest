@@ -342,8 +342,6 @@
   <project path="packages/apps/KernelTweaker" name="thelegorom/android_packages_apps_KernelTweaker" remote="github" revision="lego" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/LegoPapers" name="thelegorom/android_lego_wallpapers" remote="github" revision="lego" />
-  <project path="packages/apps/LegoOTA" name="thelegorom/android_packages_apps_LegoOTA" remote="github" revision="lego" />
   <project path="packages/apps/LegoStats" name="thelegorom/android_packages_apps_LegoStats" remote="github" revision="lego" />
   <project path="packages/apps/Mms" name="thelegorom/packages_apps_Mms" remote="github" revision="lego" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
