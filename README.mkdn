@@ -25,7 +25,7 @@ for google, exynos and non qcom devices:
 
 for qcom devices which are using CodeAuroraForum trees:
 
-	repo init -u git://github.com/thelegorom/platform_manifest.git -b lego-caf
+	repo init -u git://github.com/thelegorom/platform_manifest.git -b 4.10
 
 
 
