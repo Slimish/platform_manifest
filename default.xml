@@ -15,6 +15,9 @@
            
   <remote  name="ls"
            fetch="git://github.com/LiquidSmooth/" />
+
+  <remote  name="lsd"
+           fetch="git://github.com/LiquidSmooth-Devices/" />
            
   <remote  name="lr"
            fetch="https://github.com/thelegorom/" />
